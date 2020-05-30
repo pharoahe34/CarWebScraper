@@ -2,7 +2,7 @@
 
 The purpose of this project is to conduct a mini-project that encompasses bulk of the data science process — from data collection, data cleaning, up to the exploratory data analysis stage.
 
-## Time to changes...
+## Time to changes
 
 We asked me 2200€ for changing a complete clutch flywheel kit and my car value is around 1400€ maybe more 1000€.
 
